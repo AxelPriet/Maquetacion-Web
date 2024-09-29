@@ -115,6 +115,29 @@ button:hover {
     color: #D4AF37 !important; /* Dorado desgastado al hacer hover */
 }
 
+/* Estilos para el footer */
+.bg-footer {
+    background-color: #3B0E45; /* Púrpura oscuro */
+    padding: 10px 0; /* Reducir el padding vertical */
+    margin: 5px 0 0; /* Reducir el margen inferior del texto */
+    font-size: 12px; /* Reducir el tamaño de fuente del pie de página */ 
+    font-size: 12px; /* Reducir el tamaño de fuente del texto */
+    margin: 0;
+}
+
+.social-icons a {
+    font-size: 14px; /* Tamaño de fuente reducido */
+    margin-right: 15px; /* Espacio entre iconos */
+
+}
+
+.text-white {
+    font-size: 12px; /* Reducir el tamaño de fuente del texto */
+    margin: 0;
+}
+
+
+
 
 
 
